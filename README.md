@@ -50,7 +50,14 @@
 
 ---
 
-## 🚀 快速開始 (Getting Started)
+## 🚀 啟動與部署您的 AI Studio 應用程式
+
+這裡有您在自家電腦上運行 App 所需的一切寶貝！
+
+👀 **在 AI Studio 瞧瞧您的 App：** [https://ai.studio/apps/drive/1-cmRdykAwJIS8Ep8YNSqDlYV5XiWx02P?fullscreenApplet=true](https://ai.studio/apps/drive/1-cmRdykAwJIS8Ep8YNSqDlYV5XiWx02P?fullscreenApplet=true)
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+
+### 💻 在本機端運行
 
 想要在本地運行這個溫暖的專案嗎？只需幾步：
 
